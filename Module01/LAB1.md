@@ -1,3 +1,0 @@
-# CEH x CEHP iLAB
-
-TEST
